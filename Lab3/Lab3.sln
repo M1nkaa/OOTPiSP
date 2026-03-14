@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3.csproj", "{DD6C826A-6132-45C5-8354-8DCCE2412E5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+	ProjectSection(SolutionItems) = preProject
+		Airplane.cs = Airplane.cs
+		AirVehicle.cs = AirVehicle.cs
+		Boat.cs = Boat.cs
+		Car.cs = Car.cs
+		Helicopter.cs = Helicopter.cs
+		LandVehicle.cs = LandVehicle.cs
+		Motocycle.cs = Motocycle.cs
+		Ship.cs = Ship.cs
+		Vehicle.cs = Vehicle.cs
+		VehicleCollection.cs = VehicleCollection.cs
+		WaterVehicle.cs = WaterVehicle.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{33B58F68-F11A-448F-BA0B-784269A86111}"
+	ProjectSection(SolutionItems) = preProject
+		BsonSerializationHelper.cs = BsonSerializationHelper.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6C826A-6132-45C5-8354-8DCCE2412E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6C826A-6132-45C5-8354-8DCCE2412E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6C826A-6132-45C5-8354-8DCCE2412E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6C826A-6132-45C5-8354-8DCCE2412E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242A88B7-9A1E-41F4-A80F-7843C8DD8094}
+	EndGlobalSection
+EndGlobal

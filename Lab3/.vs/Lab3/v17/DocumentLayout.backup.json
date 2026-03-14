@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\forms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:forms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\landvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:landvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\bsonserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:bsonserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\airvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:airvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\watervehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:watervehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\vehiclecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:vehiclecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab3\\motocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C826A-6132-45C5-8354-8DCCE2412E5C}|Lab3.csproj|solutionrelative:motocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Forms\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Form2.Designer.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Forms\\Form2.Designer.cs",
+              "RelativeToolTip": "Forms\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:54:50.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Forms\\Form2.cs",
+              "RelativeDocumentMoniker": "Forms\\Form2.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Forms\\Form2.cs",
+              "RelativeToolTip": "Forms\\Form2.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:54:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LandVehicle.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\LandVehicle.cs",
+              "RelativeDocumentMoniker": "LandVehicle.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\LandVehicle.cs",
+              "RelativeToolTip": "LandVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:54:31.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Helicopter.cs",
+              "RelativeDocumentMoniker": "Helicopter.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Helicopter.cs",
+              "RelativeToolTip": "Helicopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:54:25.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAwOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:54:11.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwL0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:54:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:53:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BsonSerializationHelper.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\BsonSerializationHelper.cs",
+              "RelativeDocumentMoniker": "BsonSerializationHelper.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\BsonSerializationHelper.cs",
+              "RelativeToolTip": "BsonSerializationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:53:47.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Boat.cs",
+              "RelativeDocumentMoniker": "Boat.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Boat.cs",
+              "RelativeToolTip": "Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:52:00.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AirVehicle.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\AirVehicle.cs",
+              "RelativeDocumentMoniker": "AirVehicle.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\AirVehicle.cs",
+              "RelativeToolTip": "AirVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Airplane.cs",
+              "RelativeDocumentMoniker": "Airplane.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Airplane.cs",
+              "RelativeToolTip": "Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:50.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaterVehicle.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\WaterVehicle.cs",
+              "RelativeDocumentMoniker": "WaterVehicle.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\WaterVehicle.cs",
+              "RelativeToolTip": "WaterVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:44.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleCollection.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\VehicleCollection.cs",
+              "RelativeDocumentMoniker": "VehicleCollection.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\VehicleCollection.cs",
+              "RelativeToolTip": "VehicleCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:38.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Ship.cs",
+              "RelativeDocumentMoniker": "Ship.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Ship.cs",
+              "RelativeToolTip": "Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:27.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Motocycle.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Motocycle.cs",
+              "RelativeDocumentMoniker": "Motocycle.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab3\\Motocycle.cs",
+              "RelativeToolTip": "Motocycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:48:37.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
