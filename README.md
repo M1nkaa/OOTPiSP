@@ -1,4 +1,4 @@
-# 🎨 Graphics Editor — OOP Labs (2-6)
+# 🎨 Graphics Editor — OOP Labs (1-6)
 
 A graphics editor built in C# WinForms across 6 laboratory works, demonstrating OOP principles, plugins, and design patterns.
 
