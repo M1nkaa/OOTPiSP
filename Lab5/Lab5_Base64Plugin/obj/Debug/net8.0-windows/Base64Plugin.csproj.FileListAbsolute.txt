@@ -1,0 +1,13 @@
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\bin\Debug\net8.0-windows\Base64Plugin.deps.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\bin\Debug\net8.0-windows\Base64Plugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\bin\Debug\net8.0-windows\Base64Plugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.csproj.AssemblyReference.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.AssemblyInfoInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.AssemblyInfo.cs
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.csproj.CoreCompileInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.sourcelink.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\refint\Base64Plugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\Base64Plugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_Base64Plugin\obj\Debug\net8.0-windows\ref\Base64Plugin.dll

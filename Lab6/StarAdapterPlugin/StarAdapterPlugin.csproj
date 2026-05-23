@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- ===========================================================
+       Adapter plugin project.
+       Builds StarAdapterPlugin.dll — sign it with the Lab4 signer
+       tool, then drop .dll + .dll.sig into the host's plugins/ folder.
+
+       The project is self-contained: it depends only on the host
+       application (for shared Shape / IShapeFactory types). The
+       partner's interface and code are compiled directly into this
+       DLL so no extra assemblies need to be deployed.
+       =========================================================== -->
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Brings in WinForms, System.Drawing, and Microsoft.VisualBasic
+         (the partner's StarFactory uses Interaction.InputBox). -->
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Reference the host project for shared Shape / IShapeFactory /
+         IPluginShapeRenderer types.
+         Private=false means the host DLL is NOT copied into the plugin
+         output — at runtime the host assembly is already loaded. -->
+    <ProjectReference Include="..\Lab6\Lab1.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>

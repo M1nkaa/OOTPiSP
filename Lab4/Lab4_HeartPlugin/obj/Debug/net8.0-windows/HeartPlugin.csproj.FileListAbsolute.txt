@@ -1,0 +1,13 @@
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.csproj.AssemblyReference.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.AssemblyInfoInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.AssemblyInfo.cs
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.csproj.CoreCompileInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.sourcelink.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\bin\Debug\net8.0-windows\HeartPlugin.deps.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\bin\Debug\net8.0-windows\HeartPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\bin\Debug\net8.0-windows\HeartPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\refint\HeartPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\HeartPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab4_HeartPlugin\obj\Debug\net8.0-windows\ref\HeartPlugin.dll

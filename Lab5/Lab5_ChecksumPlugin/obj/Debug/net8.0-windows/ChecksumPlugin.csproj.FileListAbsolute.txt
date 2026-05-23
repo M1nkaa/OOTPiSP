@@ -1,0 +1,13 @@
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\bin\Debug\net8.0-windows\ChecksumPlugin.deps.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\bin\Debug\net8.0-windows\ChecksumPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\bin\Debug\net8.0-windows\ChecksumPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.csproj.AssemblyReference.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.AssemblyInfoInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.AssemblyInfo.cs
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.csproj.CoreCompileInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.sourcelink.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\refint\ChecksumPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ChecksumPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_ChecksumPlugin\obj\Debug\net8.0-windows\ref\ChecksumPlugin.dll

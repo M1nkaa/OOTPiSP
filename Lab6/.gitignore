@@ -1,0 +1,15 @@
+# ---- Build output ----
+bin/
+obj/
+
+# ---- Visual Studio ----
+.vs/
+*.user
+*.suo
+
+# ---- Plugin signing artefacts (keep the private key out of the repo!) ----
+private_key.xml
+
+# ---- OS junk ----
+Thumbs.db
+.DS_Store

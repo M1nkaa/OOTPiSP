@@ -1,0 +1,13 @@
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\bin\Debug\net8.0-windows\XorEncryptPlugin.deps.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\bin\Debug\net8.0-windows\XorEncryptPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\bin\Debug\net8.0-windows\XorEncryptPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.csproj.AssemblyReference.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.AssemblyInfoInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.AssemblyInfo.cs
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.csproj.CoreCompileInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.sourcelink.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\refint\XorEncryptPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\XorEncryptPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab5_EncryptPlugin\obj\Debug\net8.0-windows\ref\XorEncryptPlugin.dll

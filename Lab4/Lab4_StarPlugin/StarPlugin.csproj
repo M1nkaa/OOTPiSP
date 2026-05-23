@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>StarPlugin</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Ссылка на Lab1.dll — основной проект должен быть собран первым -->
+    <Reference Include="Lab1">
+      <HintPath>..\Lab4\bin\Debug\net8.0-windows\Lab1.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

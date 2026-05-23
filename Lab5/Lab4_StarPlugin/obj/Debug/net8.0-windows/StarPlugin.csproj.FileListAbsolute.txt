@@ -1,0 +1,13 @@
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\bin\Debug\net8.0-windows\StarPlugin.deps.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\bin\Debug\net8.0-windows\StarPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\bin\Debug\net8.0-windows\StarPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.csproj.AssemblyReference.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.AssemblyInfoInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.AssemblyInfo.cs
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.csproj.CoreCompileInputs.cache
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.sourcelink.json
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\refint\StarPlugin.dll
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\StarPlugin.pdb
+E:\2 курс\4 сем\ООТПиСП\OOTPiSP\Lab5\Lab4_StarPlugin\obj\Debug\net8.0-windows\ref\StarPlugin.dll

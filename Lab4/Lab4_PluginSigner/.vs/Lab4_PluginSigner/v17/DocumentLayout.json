@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab4_PluginSigner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A534A840-1A43-470E-A627-D1E4D32CB3D9}|Lab4_PluginSigner.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab4_pluginsigner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A534A840-1A43-470E-A627-D1E4D32CB3D9}|Lab4_PluginSigner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab4_PluginSigner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab4_PluginSigner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T13:49:29.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

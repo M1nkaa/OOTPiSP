@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>XorEncryptPlugin</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lab1">
+      <HintPath>..\Lab6\bin\Debug\net8.0-windows\Lab1.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

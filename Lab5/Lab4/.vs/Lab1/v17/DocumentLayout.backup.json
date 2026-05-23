@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\pluginsignatureverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\pluginsignatureverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\ishaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\ishaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\ishapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\ishapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\ipluginshaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\ipluginshaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\ifileprocessorplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\ifileprocessorplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\gdishaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\gdishaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|e:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u043E\u043E\u0442\u043F\u0438\u0441\u043F\\ootpisp\\lab5\\lab4\\shapes\\shapeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7089A-133A-476C-B004-76D9870CAEF8}|Lab1.csproj|solutionrelative:shapes\\shapeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\MyRectangle.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\MyRectangle.cs",
+              "RelativeToolTip": "Shapes\\MyRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:11:15.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Line.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\Line.cs",
+              "RelativeDocumentMoniker": "Shapes\\Line.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\Line.cs",
+              "RelativeToolTip": "Shapes\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:11:14.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PluginSignatureVerifier.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\PluginSignatureVerifier.cs",
+              "RelativeDocumentMoniker": "Shapes\\PluginSignatureVerifier.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\PluginSignatureVerifier.cs",
+              "RelativeToolTip": "Shapes\\PluginSignatureVerifier.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:10:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShapeSerializer.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\ShapeSerializer.cs",
+              "RelativeDocumentMoniker": "Shapes\\ShapeSerializer.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\ShapeSerializer.cs",
+              "RelativeToolTip": "Shapes\\ShapeSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:10:35.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GdiShapeRenderer.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\GdiShapeRenderer.cs",
+              "RelativeDocumentMoniker": "Shapes\\GdiShapeRenderer.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\GdiShapeRenderer.cs",
+              "RelativeToolTip": "Shapes\\GdiShapeRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:10:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileProcessorPlugin.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IFileProcessorPlugin.cs",
+              "RelativeDocumentMoniker": "Shapes\\IFileProcessorPlugin.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IFileProcessorPlugin.cs",
+              "RelativeToolTip": "Shapes\\IFileProcessorPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:10:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPluginShapeRenderer.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IPluginShapeRenderer.cs",
+              "RelativeDocumentMoniker": "Shapes\\IPluginShapeRenderer.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IPluginShapeRenderer.cs",
+              "RelativeToolTip": "Shapes\\IPluginShapeRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:09:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShapeFactory.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IShapeFactory.cs",
+              "RelativeDocumentMoniker": "Shapes\\IShapeFactory.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IShapeFactory.cs",
+              "RelativeToolTip": "Shapes\\IShapeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:09:51.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShapeRenderer.cs",
+              "DocumentMoniker": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IShapeRenderer.cs",
+              "RelativeDocumentMoniker": "Shapes\\IShapeRenderer.cs",
+              "ToolTip": "E:\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\\\u041E\u041E\u0422\u041F\u0438\u0421\u041F\\OOTPiSP\\Lab5\\Lab4\\Shapes\\IShapeRenderer.cs",
+              "RelativeToolTip": "Shapes\\IShapeRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:09:48.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
